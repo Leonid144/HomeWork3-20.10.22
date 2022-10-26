@@ -1,0 +1,15 @@
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.csproj.AssemblyReference.cache
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.AssemblyInfoInputs.cache
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.AssemblyInfo.cs
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.csproj.CoreCompileInputs.cache
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\bin\Debug\net6.0\HOMEWORK 3 C# 20.10.22.exe
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\bin\Debug\net6.0\HOMEWORK 3 C# 20.10.22.deps.json
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\bin\Debug\net6.0\HOMEWORK 3 C# 20.10.22.runtimeconfig.json
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\bin\Debug\net6.0\HOMEWORK 3 C# 20.10.22.dll
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\bin\Debug\net6.0\HOMEWORK 3 C# 20.10.22.pdb
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.dll
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\refint\HOMEWORK 3 C# 20.10.22.dll
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.pdb
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\HOMEWORK 3 C# 20.10.22.genruntimeconfig.cache
+C:\Users\Tom New\Desktop\HOMEWORK 3 C# 20.10.22\obj\Debug\net6.0\ref\HOMEWORK 3 C# 20.10.22.dll
